@@ -13,7 +13,7 @@
 
   <h3 align="center">
   <!-- <a href="https://arxiv.org/pdf/2405.17958">arXiv</a> |  -->
-  <a href="https://wangys16.github.io/FreeSplat-project/">Project Page</a>  </h3>
+  <a href="https://github.com/wangys16/FreeSplatPP-Page/">Project Page</a>  </h3>
   <div align="center"></div>
 </p>
 
