@@ -9,6 +9,8 @@
 
   </p>
 
+
+
   <h2 align="center">Arxiv 2025</h2>
 
   <h3 align="center">
@@ -17,10 +19,7 @@
   <div align="center"></div>
 </p>
 
-<video width="600" controls>
-  <source src="https://github.com/wangys16/FreeSplatPP/tree/main/media/demo.mp4?raw=true" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/8a26f9ee-b922-464c-a7f7-a9b1483f9bfa
 
 
 <p align="center">
