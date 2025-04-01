@@ -17,6 +17,12 @@
   <div align="center"></div>
 </p>
 
+<video width="600" controls>
+  <source src="https://github.com/wangys16/FreeSplatPP/tree/main/media/demo.mp4?raw=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 <p align="center">
   <a href="">
     <img src="./media/teaser.jpg" alt="Logo" width="95%">
