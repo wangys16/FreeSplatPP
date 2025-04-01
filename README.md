@@ -12,8 +12,10 @@
   <h2 align="center">Arxiv 2025</h2>
 
   <h3 align="center">
-  <a href="https://arxiv.org/pdf/2503.22986">arXiv</a> | 
-  <a href="https://wangys16.github.io/FreeSplatPP-Page/">Project Page</a>  </h3>
+  [![arXiv](https://img.shields.io/badge/ArXiv-2503.10286-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2503.22986)
+[![Project page](https://img.shields.io/badge/Project-Page-brightgreen)](https://wangys16.github.io/FreeSplatPP-Page/)
+  <!-- <a href="https://arxiv.org/pdf/2503.22986">arXiv</a> | 
+  <a href="https://wangys16.github.io/FreeSplatPP-Page/">Project Page</a>  </h3> -->
   <div align="center"></div>
 
 
