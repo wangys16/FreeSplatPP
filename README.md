@@ -11,12 +11,14 @@
   
   <h2 align="center">Arxiv 2025</h2>
 
-  <h3 align="center">
+  <h5 align="center">
+
   [![arXiv](https://img.shields.io/badge/ArXiv-2503.22986-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2503.22986)
-[![Project page](https://img.shields.io/badge/Project-Page-brightgreen)](https://wangys16.github.io/FreeSplatPP-Page/)
+  [![Project page](https://img.shields.io/badge/Project-Page-brightgreen)](https://wangys16.github.io/FreeSplatPP-Page/)
   <!-- <a href="https://arxiv.org/pdf/2503.22986">arXiv</a> | 
-  <a href="https://wangys16.github.io/FreeSplatPP-Page/">Project Page</a>  </h3> -->
-  <div align="center"></div>
+  <a href="https://wangys16.github.io/FreeSplatPP-Page/">Project Page</a>   -->
+  </h5>
+  <!-- <div align="center"></div> -->
 
 
 
@@ -24,7 +26,7 @@ https://github.com/user-attachments/assets/c3830640-c19d-4269-b0d2-d4320b54bd44
 
 
 
-</p>
+<!-- </p> -->
 
 
 
