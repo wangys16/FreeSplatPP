@@ -11,17 +11,17 @@
   
   <h2 align="center">Arxiv 2025</h2>
 
+  <h3 align="center">
+  <a href="https://arxiv.org/pdf/2503.22986">arXiv</a> | 
+  <a href="https://wangys16.github.io/FreeSplatPP-Page/">Project Page</a>  </h3>
+  <div align="center"></div>
+
 
 
 https://github.com/user-attachments/assets/c3830640-c19d-4269-b0d2-d4320b54bd44
 
 
 
-
-  <h3 align="center">
-  <a href="https://arxiv.org/pdf/2503.22986">arXiv</a> | 
-  <a href="https://wangys16.github.io/FreeSplatPP-Page/">Project Page</a>  </h3>
-  <div align="center"></div>
 </p>
 
 
