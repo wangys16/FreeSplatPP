@@ -8,6 +8,8 @@
     <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>
 
   </p>
+  
+  <h2 align="center">Arxiv 2025</h2>
 
 
 
@@ -15,7 +17,6 @@ https://github.com/user-attachments/assets/c3830640-c19d-4269-b0d2-d4320b54bd44
 
 
 
-  <h2 align="center">Arxiv 2025</h2>
 
   <h3 align="center">
   <a href="https://arxiv.org/pdf/2503.22986">arXiv</a> | 
