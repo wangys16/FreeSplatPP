@@ -51,3 +51,25 @@ FreeSplat++ is an enhanced version of FreeSplat to solve the feed-forward whole 
 The code will be released recently.
 
 
+# 🖊 BibTeX
+
+If you find our work helpful, please consider citing our papers. Thank you!
+
+```
+@article{wang2025freesplat++,
+  title={FreeSplat++: Generalizable 3D Gaussian Splatting for Efficient Indoor Scene Reconstruction},
+  author={Wang, Yunsong and Huang, Tianxin and Chen, Hanlin and Lee, Gim Hee},
+  journal={arXiv preprint arXiv:2503.22986},
+  year={2025}
+}
+```
+
+```
+@article{wang2024freesplat,
+  title={FreeSplat: Generalizable 3D Gaussian Splatting Towards Free-View Synthesis of Indoor Scenes},
+  author={Wang, Yunsong and Huang, Tianxin and Chen, Hanlin and Lee, Gim Hee},
+  journal={arXiv preprint arXiv:2405.17958},
+  year={2024}
+}
+```
+
