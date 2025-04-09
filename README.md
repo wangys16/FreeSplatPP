@@ -23,7 +23,7 @@
 
 
 <video width="720" height="480" controls>
-  <source src="[https://raw.githubusercontent.com/username/repo/branch/path/to/yourvideo.mp4](https://github.com/wangys16/FreeSplatPP/blob/main/media/demo.mp4)" type="video/mp4">
+  <source src="https://github.com/wangys16/FreeSplatPP/blob/main/media/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
