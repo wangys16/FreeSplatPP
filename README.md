@@ -23,7 +23,11 @@
 
 
 
-https://github.com/user-attachments/assets/2cf0a2a0-092d-49c6-83f0-64d9b9357754
+
+
+
+
+https://github.com/user-attachments/assets/5a5e21cd-a967-46bc-ade9-72b1596e5c10
 
 
 
@@ -54,6 +58,8 @@ https://github.com/user-attachments/assets/2cf0a2a0-092d-49c6-83f0-64d9b9357754
 FreeSplat++ is an enhanced version of FreeSplat to solve the feed-forward whole scene reconstruction challenge, in which we carefully design a fusion module to mitigate 3D Gaussian redundancy, and a Weighted Floater Removal scheme to significantly reduce floater Gaussians in whole scene reconstruction. Furthermore, we also investigate a depth-regularized fine-tuning step to further enhance the rendering quality while maintaining the geometric accuracy. Empirical results demonstrate our significant improvements over existing feed-forward methods and per-scene optimization method in terms of rendering quality, geometric accuracy and efficiency.
 
 # 🌏 News
+
+
 
 The code will be released recently.
 
