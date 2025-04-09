@@ -22,7 +22,10 @@
 
 
 
-https://github.com/user-attachments/assets/c3830640-c19d-4269-b0d2-d4320b54bd44
+
+https://github.com/wangys16/FreeSplatPP/blob/main/media/demo.mp4
+
+
 
 
 
