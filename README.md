@@ -22,10 +22,8 @@
 
 
 
-<video width="720" height="480" controls>
-  <source src="https://github.com/wangys16/FreeSplatPP/blob/main/media/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/29167cf7-e6b9-463f-930e-d74a3315bcaf
 
 
 
